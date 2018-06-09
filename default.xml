@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="khaibin"
+           fetch="https://github.com/khaibin/"/>
+  <default revision="master"
+           sync-j="4" />
+  <project path="oneofakind" name="oneofakind.azurewebsites.net" remote="khaibin" />
+</manifest>
