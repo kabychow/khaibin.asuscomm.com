@@ -4,5 +4,5 @@
            fetch="ssh://git@github.com/"/>
   <default revision="master"
            sync-j="4" />
-  <project path="malaysiaproperty2u" name="malaysiaproperty2u" remote="github/khaibin" />
+  <project path="malaysiaproperty2u" name="khaibin/malaysiaproperty2u" remote="github" />
 </manifest>
