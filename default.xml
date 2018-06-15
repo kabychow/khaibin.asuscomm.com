@@ -4,5 +4,5 @@
            fetch="https://github.com/khaibin/"/>
   <default revision="master"
            sync-j="4" />
-  <project path="oneofakind" name="oneofakind.azurewebsites.net" remote="khaibin" />
+  <project path="malaysiaproperty2u" name="malaysiaproperty2u" remote="khaibin" />
 </manifest>
