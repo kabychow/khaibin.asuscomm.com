@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="khaibin"
-           fetch="http://github.com/khaibin"/>
+  <remote  name="github"
+           fetch="ssh://git@github.com/"/>
   <default revision="master"
            sync-j="4" />
-  <project path="malaysiaproperty2u" name="malaysiaproperty2u" remote="khaibin" />
+  <project path="deployment" name="khaibin/repo-cd-tool" remote="github" />
 </manifest>
